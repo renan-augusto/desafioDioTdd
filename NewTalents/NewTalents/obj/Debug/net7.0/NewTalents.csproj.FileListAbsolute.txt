@@ -1,0 +1,15 @@
+C:\workspace\DotnetDesafioDioTDD\NewTalents\NewTalents\bin\Debug\net7.0\NewTalents.exe
+C:\workspace\DotnetDesafioDioTDD\NewTalents\NewTalents\bin\Debug\net7.0\NewTalents.deps.json
+C:\workspace\DotnetDesafioDioTDD\NewTalents\NewTalents\bin\Debug\net7.0\NewTalents.runtimeconfig.json
+C:\workspace\DotnetDesafioDioTDD\NewTalents\NewTalents\bin\Debug\net7.0\NewTalents.dll
+C:\workspace\DotnetDesafioDioTDD\NewTalents\NewTalents\bin\Debug\net7.0\NewTalents.pdb
+C:\workspace\DotnetDesafioDioTDD\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.csproj.AssemblyReference.cache
+C:\workspace\DotnetDesafioDioTDD\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DotnetDesafioDioTDD\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.AssemblyInfoInputs.cache
+C:\workspace\DotnetDesafioDioTDD\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.AssemblyInfo.cs
+C:\workspace\DotnetDesafioDioTDD\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\workspace\DotnetDesafioDioTDD\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.dll
+C:\workspace\DotnetDesafioDioTDD\NewTalents\NewTalents\obj\Debug\net7.0\refint\NewTalents.dll
+C:\workspace\DotnetDesafioDioTDD\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.pdb
+C:\workspace\DotnetDesafioDioTDD\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.genruntimeconfig.cache
+C:\workspace\DotnetDesafioDioTDD\NewTalents\NewTalents\obj\Debug\net7.0\ref\NewTalents.dll
